@@ -1,7 +1,6 @@
-{
-    [
-        {
-            "id" : 1
+[
+    {
+        "id" : 1
             "name" : "Leonardo Da Vinci"
         },
         {
@@ -12,5 +11,5 @@
             "id" : 3
             "name" : "Isaac Newton"
         }
-    ]
-}
+    }
+]
