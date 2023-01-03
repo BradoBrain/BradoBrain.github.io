@@ -1,1 +1,13 @@
-
+{
+    "scientists" : [
+        {
+            "name" : "Leonardo Da Vinci"
+        },
+        {
+            "name" : "Albert Einstein"
+        },
+        {
+            "name" : "Isaac Newton"
+        }
+    ]
+}
