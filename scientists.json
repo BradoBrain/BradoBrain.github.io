@@ -2,14 +2,13 @@
     {
         "id" : 1
             "name" : "Leonardo Da Vinci"
-        },
-        {
-            "id" : 2
-            "name" : "Albert Einstein"
-        },
-        {
-            "id" : 3
-            "name" : "Isaac Newton"
-        }
+    },
+    {
+        "id" : 2
+        "name" : "Albert Einstein"
+    },
+    {
+        "id" : 3
+        "name" : "Isaac Newton"
     }
 ]
