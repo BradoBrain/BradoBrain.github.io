@@ -1,7 +1,7 @@
 [
      {
          "mission" : "Apollo 1",
-         "image" : "https://bradobrain.github.io/apollo1.jpeg",
+         "image" : "https://bradobrain.github.io/apollo1.jpg",
          "crew" : "Virgil I. Grissom | Edward H. White | Roger B. Chaffee"
      },
      {
@@ -11,52 +11,52 @@
      },
        {
          "mission" : "Apollo 8",
-         "image" : "https://bradobrain.github.io/appolo8.jpeg",
+         "image" : "https://bradobrain.github.io/apollo8.jpg",
          "crew" : "Frank Borman | William A. Anders | James A. Lovell Jr."
      },
        {
          "mission" : "Apollo 9",
-         "image" : "https://bradobrain.github.io/apollo9.jpeg",
+         "image" : "https://bradobrain.github.io/apollo9.jpg",
          "crew" : "James A. McDivitt | Russell L. Schweickart | David R. Scott"
      },
        {
          "mission" : "Apollo 10",
-         "image" : "https://bradobrain.github.io/apollo10.jpeg",
+         "image" : "https://bradobrain.github.io/apollo10.jpg",
          "crew" : "Thomas Stafford | Eugene Cernan | John Young"
      },
        {
          "mission" : "Apollo 11",
-         "image" : "https://bradobrain.github.io/apollo11.jpeg",
+         "image" : "https://bradobrain.github.io/apollo11.jpg",
          "crew" : "Neil Armstrong | Edwin E. Aldrin Jr. | Michael Collins"
      },
        {
          "mission" : "Apollo 12",
-         "image" : "https://bradobrain.github.io/apollo12.jpeg",
+         "image" : "https://bradobrain.github.io/apollo12.jpg",
          "crew" : "Charles Conrad Jr. | Alan L. Bean | Richard F. Gordon Jr."
      },
        {
          "mission" : "Apollo 13",
-         "image" : "https://bradobrain.github.io/apollo13.jpeg",
+         "image" : "https://bradobrain.github.io/apollo13.jpg",
          "crew" : "James A. Lovell Jr. | Fred W. Haise Jr. | John L. Swigert Jr."
      },
        {
          "mission" : "Apollo 14",
-         "image" : "https://bradobrain.github.io/apollo14.jpeg",
+         "image" : "https://bradobrain.github.io/apollo14.jpg",
          "crew" : "Alan B. Shepard Jr. | Edgar D. Mitchell | Stuart A. Roosa"
      },
        {
          "mission" : "Apollo 15",
-         "image" : "https://bradobrain.github.io/apollo15.jpeg",
+         "image" : "https://bradobrain.github.io/apollo15.jpg",
          "crew" : "David R. Scott | James B. Irwin | Alfred M. Worden"
      },
        {
          "mission" : "Apollo 16",
-         "image" : "https://bradobrain.github.io/apollo16.jpeg",
+         "image" : "https://bradobrain.github.io/apollo16.jpg",
          "crew" : "John W. Young | Charles M. Duke Jr. | Thomas K. Mattingly II"
      },
        {
          "mission" : "Apollo 17",
-         "image" : "https://bradobrain.github.io/apollo17.jpeg",
+         "image" : "https://bradobrain.github.io/apollo17.jpg",
          "crew" : "Eugene A. Cernan | Harrison H. Schmitt | Ronald E. Evans"
      }
  ]
